@@ -1,2 +1,2 @@
-# Print-Pictures
-MFC批量打印图片的小程序
+# ReadShape
+读取shape文件的代码，参考网上资料实现
